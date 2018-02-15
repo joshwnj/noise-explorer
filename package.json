@@ -1,0 +1,18 @@
+{
+  "name": "noise-explorer",
+  "version": "1.0.0",
+  "description": "Go on a journey through a land of noise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "joshwnj",
+  "license": "MIT",
+  "dependencies": {
+    "beat-emitter": "^1.0.0",
+    "hot-pockets": "^0.3.0",
+    "midi-freq": "^1.0.1",
+    "tunajs": "^1.0.0"
+  }
+}
