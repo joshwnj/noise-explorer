@@ -2,8 +2,11 @@
   "name": "noise-explorer",
   "version": "1.0.0",
   "description": "Go on a journey through a land of noise",
-  "main": "index.js",
+  "bin": {
+    "noise-explorer": "bin/noise-explorer"
+  },
   "scripts": {
+    "start": "npx electron src/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
