@@ -14,7 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "beat-emitter": "^1.0.0",
-    "hot-pockets": "^0.3.0",
+    "hot-pockets": "^0.3.1",
     "midi-freq": "^1.0.1",
     "tunajs": "^1.0.0"
   },
