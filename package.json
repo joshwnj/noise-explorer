@@ -1,6 +1,6 @@
 {
   "name": "noise-explorer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Go on a journey through a land of noise",
   "bin": {
     "noise-explorer": "bin/noise-explorer"
