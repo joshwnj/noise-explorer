@@ -17,5 +17,15 @@
     "hot-pockets": "^0.3.0",
     "midi-freq": "^1.0.1",
     "tunajs": "^1.0.0"
-  }
+  },
+  "main": "src/index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshwnj/noise-explorer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joshwnj/noise-explorer/issues"
+  },
+  "homepage": "https://github.com/joshwnj/noise-explorer#readme"
 }
