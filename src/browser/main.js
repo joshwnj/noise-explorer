@@ -19,7 +19,7 @@ beats.start()
 var limiter = setParams(ac.createDynamicsCompressor(), {
   threshold: 0,
   knee: 0,
-  reduction: 20.0,
+  reduction: 5.0,
   ratio: 20,
   attack: 0.005,
   release: 0.050
