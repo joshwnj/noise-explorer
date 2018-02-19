@@ -19,8 +19,7 @@ beats.start()
 var limiter = setParams(ac.createDynamicsCompressor(), {
   threshold: 0,
   knee: 0,
-  reduction: 5.0,
-  ratio: 20,
+  ratio: 10,
   attack: 0.005,
   release: 0.050
 })
@@ -75,8 +74,8 @@ noise({
 
 hp(() => {
   updateMixer(mixer, {
-    noise: 1.0,
-    noise2: 1.0
+    noise: 4.0,
+    noise2: 4.0
   })
 })
 
